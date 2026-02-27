@@ -1,16 +1,41 @@
-## Hi there 👋
+# Hi, I'm Bhushan 👋
 
-<!--
-**bhushank004/bhushank004** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Final-year Electronics & Telecommunication Engineering student
+💻 Aspiring Python Developer | AI & Automation Enthusiast
+📍 India
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Skills
+
+* Python
+* REST APIs
+* Automation
+* Basic Machine Learning
+* Git & GitHub
+
+---
+
+## 📂 Projects
+
+🔹 Trading Automation Bot
+Python-based automation system using APIs
+
+🔹 Smart IoT Projects
+Arduino + sensors based real-world systems
+
+🔹 AI-based Monitoring Ideas
+Computer vision & automation concepts
+
+---
+
+## 🎯 Current Goal
+
+Seeking Python / AI / Automation Internship
+
+---
+
+## 📫 Connect with me
+
+* LinkedIn: (linkedin.com/in/bhushankhandal)
+* Email: (bkhandal004@gmail.com)
